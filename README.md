@@ -41,5 +41,5 @@
 ----------
 
 - 2024 / 11 / 24 : 3문제 해결
-- ![alt text](png/image.png)
+- ![alt text](png/image-5.png)
 ----------
