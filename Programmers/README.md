@@ -2,7 +2,7 @@
 
 ----------
 - 2024 / 11 / 22 : 3문제 해결
-- ![alt text](png/image-1.png)
+- ![alt text](/home/songhyunsik/coding_study/png/image-1.png)
 
 ----------
 
