@@ -4,7 +4,7 @@
 
 - 1 단계 문제 해결 시작.
 - 2024 / 11 / 22 : 3문제 해결
-- ![alt text](png/image.png)
+- ![alt text](png/image-1.png)
 
 ----------
 
@@ -14,25 +14,25 @@
 ----------
 
 - 2024 / 11 / 24 : 3문제 해결
-- ![alt text](png/image-4.png)
+- ![alt text](png/image-3.png)
 
 ----------
 
 - 2024 / 12 / 01 : 4문제 해결
-- ![alt text](png/image-6.png)
+- ![alt text](png/image-4.png)
 - ", `, \ 등의 문자를 출력하기 위해서는 해당 문자 앞에 \를 붙이면 출력할 수 있다.
 - 1 단계 문제 모두 해결.
 
 ----------
 
 - 2024 / 12 / 12 : 3문제 해결
-- ![alt text](png/image-7.png)
+- ![alt text](png/image-5.png)
 - 2 단계 문제 시작.
 
 ----------
 
 - 2024 / 12 / 15 : 4문제 해결
-- ![alt text](png/image-8.png)
+- ![alt text](png/image-6.png)
 - 2 단계 문제 마무리.
 
 ----------
